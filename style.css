@@ -1,0 +1,43 @@
+/* General */
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+}
+
+/* colors */
+.white {
+  color: hsl(0, 0%, 100%);
+}
+
+.gray {
+  color: hsl(212, 45%, 89%);
+}
+
+.blue {
+  background: hsl(220, 15%, 55%);
+}
+
+.dark_blue {
+  color: hsl(218, 44%, 22%);
+}
+
+/* body */
+
+#title {
+  font-weight: 700;
+}
+
+.paragraph {
+  font-weight: 400;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
